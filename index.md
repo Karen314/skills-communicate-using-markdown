@@ -11,3 +11,6 @@ bla bla bla bla
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Beast i said what i said
+- [ ] I paint the town red
+- [x] cause beast...
